@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -654,6 +655,10 @@ section {
   background: #5faee3;
 }
 
+.ingles{
+  color: #3498db;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -753,7 +758,7 @@ section {
 .portfolio .portfolio-item figure {
   background: #000;
   overflow: hidden;
-  height: 240px;
+  height: 220px;
   position: relative;
   border-radius: 4px 4px 0 0;
   margin: 0;
@@ -853,6 +858,7 @@ section {
 .portfolio-details {
   padding-top: 0;
 }
+
 
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
